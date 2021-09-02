@@ -1,1 +1,4 @@
 # python_CI_CD_testing
+__________________________________________________________
+repo for testing how to apply github actions to create CI/CD pipeline for python scripts.
+__________________________________________________________
